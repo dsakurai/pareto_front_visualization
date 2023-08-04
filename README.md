@@ -1,7 +1,7 @@
 Analyze and visualize high-dimensional Pareto fronts of multiobjective optimization problems.
 
 Files:
-1. demo.ipynb: A generic example that uses scatterplot matrices. It also provides code to reduce the objectives. Shows how to convert an objective into a constraint to the optimization problem.
+1. demo.ipynb: A generic example that uses scatterplot matrices. It also provides code to reduce the objectives and shows how to convert an objective into a constraint to the optimization problem.
 2. pareto-mapper.ipynb: An advanced example that uses the Mapper to visualize high-dimensional Pareto fronts [HC17]. Useful for extracting knee points, which model interesting points in a Pareto front.
 
 References:  
